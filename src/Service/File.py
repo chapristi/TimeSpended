@@ -1,9 +1,16 @@
-import json 
-
+from datetime import datetime
+import string
 class File:
-    def __init__(self,file) -> None:
+    def __init__(self,file: string) -> None:
         self.file = file
-    def readFile():
-        with open('../infos.json') as json_data:
-            return json.load(json_data)
-    
+    def readFile(self):
+        with open('../../infos.txt','r') as file_data:
+            return file_data.read()
+    def writeFile(self,app: string):
+        time = datetime.now()
+        object = f"{app}_{str(time)}\n"
+        with open(self.file, "a") as fichier:
+            return fichier.write(object)
+
+
+
