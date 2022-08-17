@@ -8,7 +8,7 @@ class File:
             return file_data.read()
     def writeFile(self,app: string):
         time = datetime.now()
-        object = f"{app}_{str(time)}\n"
+        object = f"{app}_{str(time)}\n_"
         with open(self.file, "a") as fichier:
             return fichier.write(object)
 
