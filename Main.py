@@ -1,7 +1,4 @@
-import time
-import pygetwindow as gw
+from src.Event.EventChangeWindow import EventChangeWindow
+event =  EventChangeWindow()
 
-while True:
-    time.sleep(5)
-    print(gw.getActiveWindow().title)
-    
+event.Event()
