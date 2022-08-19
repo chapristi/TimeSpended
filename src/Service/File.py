@@ -1,5 +1,8 @@
 from datetime import datetime
 import string
+"""
+This class manage what is related to file (write,read) and manage his complexity 
+"""
 class File:
     def __init__(self) -> None:
         self.file = "infos.txt"

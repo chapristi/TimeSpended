@@ -1,10 +1,12 @@
 import unittest
 TESTDATA_FILENAME = "infos.txt"
-'''
-class to test the code in src/Service/File.py 
-'''
+"""
+    class to test the code in src/Service/File.py 
+"""
 class FileUnitTest(unittest.TestCase):
-    #test the file to be opened and read to ensure that it works properly
+   """
+    test to open the file
+   """
    def testRead(self):
        self.testfile = open(TESTDATA_FILENAME)
        self.testdata = self.testfile.read()
