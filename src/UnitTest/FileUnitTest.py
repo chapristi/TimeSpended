@@ -1,5 +1,5 @@
 import unittest
-TESTDATA_FILENAME = "../../infos.txt"
+TESTDATA_FILENAME = "infos.txt"
 '''
 class to test the code in src/Service/File.py 
 '''

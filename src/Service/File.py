@@ -1,8 +1,8 @@
 from datetime import datetime
 import string
 class File:
-    def __init__(self,file: string) -> None:
-        self.file = file
+    def __init__(self) -> None:
+        self.file = "infos.txt"
     def readFile(self: any) -> string:
         with open(self.file,'r',encoding="utf-8") as file_data:
             return file_data.read()

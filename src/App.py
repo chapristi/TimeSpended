@@ -5,7 +5,7 @@ from src.Service.File import File
 class App:
 
     def list(self):
-        file = File("infos.txt")
+        file = File()
         test_list = file.readFile().split("_")
         final_list= lambda test_list, x: [test_list[i:i+x] for i in range(0, len(test_list), x)]
         return final_list(test_list, 2)

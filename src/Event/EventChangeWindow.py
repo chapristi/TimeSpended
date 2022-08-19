@@ -8,7 +8,7 @@ from src.Service.File import File
 
 class EventChangeWindow:
     def __init__(self: any) -> None:
-        self.file = File("infos.txt")
+        self.file = File()
         #print(self.file.readFile())
     #i'm looking for a way to get event et delete this time.sleep 😭
     def whatWindow(self) -> string:
