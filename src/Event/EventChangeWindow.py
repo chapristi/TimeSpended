@@ -15,7 +15,7 @@ class EventChangeWindow:
     """
      this function returns the page the user is on
     """    
-    def whatWindow(self) -> string:
+    def whatWindow(self: any) -> string:
         return gw.getActiveWindow().title
     """
      this function split elements to get array output

@@ -11,7 +11,7 @@ class App:
     """
         this function split the file in a array 2 by 2
     """
-    def list(self: any ) -> array:
+    def list(self: any) -> array:
         file = File()
         test_list = file.readFile().split("_")
         final_list = lambda test_list, x: [test_list[i:i+x] for i in range(0, len(test_list), x)]
