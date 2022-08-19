@@ -21,9 +21,9 @@ class EventChangeWindow:
             time.sleep(5)
             page = self.whatWindow()
             t = self.SplitedElements()
-            #print(t)
-            #print(page)
-            #print(t[len(t)-3])
+            print(t)
+            print(page)
+            print(t[len(t)-3])
             if page != t[len(t)-3]:
                 self.file.writeFile(self.whatWindow())
                 

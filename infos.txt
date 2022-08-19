@@ -9,4 +9,84 @@ _Main.py - timePassed - Visual Studio Code_2022-08-18 09:31:52.491378
 _EventChangeWindow.py - timePassed - Visual Studio Code_2022-08-18 09:31:57.501247
 _EventChangeWindow.py - timePassed - Visual Studio Code_2022-08-18 09:32:02.511264
 _infos.txt - timePassed - Visual Studio Code_2022-08-18 09:33:58.834139
+_File.py - timePassed - Visual Studio Code_2022-08-18 21:02:17.187986
+_infos.txt - timePassed - Visual Studio Code_2022-08-18 21:02:27.215375
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:02:37.238717
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:02:42.242212
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:02:47.251955
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:02:52.266690
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:02:57.279688
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:03:02.285046
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:03:07.291306
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:03:12.307259
+_Lanceur Epic Games_2022-08-18 21:03:17.317797
+_🧠┃orientation - Discord_2022-08-18 21:03:37.355398
+_🧠┃orientation - Discord_2022-08-18 21:03:42.357217
+_🧠┃orientation - Discord_2022-08-18 21:03:47.372391
+_🤖┃commandes - Discord_2022-08-18 21:03:52.373811
+_🥂général🥂 - Discord_2022-08-18 21:03:57.387378
+_🥂général🥂 - Discord_2022-08-18 21:04:02.402034
+_1990 VS 2000 (Clash des générations) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:04:07.411957
+_1990 VS 2000 (Clash des générations) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:04:12.423950
+_1990 VS 2000 (Clash des générations) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:04:17.428502
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:04:22.430974
+_FileUnitTest.py - timePassed - Visual Studio Code_2022-08-18 21:04:27.445104
+_Main.py - timePassed - Visual Studio Code_2022-08-18 21:04:32.447933
+_EventChangeWindow.py - timePassed - Visual Studio Code_2022-08-18 21:04:37.457277
+_infos.txt - timePassed - Visual Studio Code_2022-08-18 21:04:48.867961
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:05:08.915346
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:05:13.921183
+_BALANCE TON GREC (Parodie Angèle) - YouTube - Profil 1 – Microsoft​ Edge_2022-08-18 21:05:18.938124
+_EventChangeWindow.py - timePassed - Visual Studio Code_2022-08-18 21:06:46.535200
+_EventChangeWindow.py - timePassed - Visual Studio Code_2022-08-18 21:06:51.552365
+_BALANCE TON GREC (Parodie Angèle) - YouTube et 2 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:06:56.569575
+_BALANCE TON GREC (Parodie Angèle) - YouTube et 2 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:07:01.582553
+_BALANCE TON GREC (Parodie Angèle) - YouTube et 2 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:07:06.591495
+_EventChangeWindow.py - timePassed - Visual Studio Code_2022-08-18 21:07:11.606357
+_infos.txt - timePassed - Visual Studio Code_2022-08-18 21:07:16.617022
+_BALANCE TON GREC (Parodie Angèle) - YouTube et 2 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:07:21.621553
+_BALANCE TON GREC (Parodie Angèle) - YouTube et 2 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:07:26.635548
+_infos.txt - timePassed - Visual Studio Code_2022-08-18 21:07:31.640349
+_File.py - timePassed - Visual Studio Code_2022-08-18 21:07:36.646810
+_EventChangeWindow.py - timePassed - Visual Studio Code_2022-08-18 21:07:41.656819
+_BALANCE TON GREC (Parodie Angèle) - YouTube et 2 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:07:50.909246
+_BALANCE TON GREC (Parodie Angèle) - YouTube et 2 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:07:55.914564
+_BALANCE TON GREC (Parodie Angèle) - YouTube et 2 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:08:00.927077
+_BALANCE TON GREC (Parodie Angèle) - YouTube et 2 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:08:05.933731
+_Nouvel onglet et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:08:10.953290
+_python du text mal formé : Recherche et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:08:15.964302
+_python du text mal formé : Recherche et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:08:20.969556
+_python du text mal formé : Recherche et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:08:25.975324
+_EventChangeWindow.py - timePassed - Visual Studio Code_2022-08-18 21:08:30.993064
+_infos.txt - timePassed - Visual Studio Code_2022-08-18 21:08:41.015434
+_FileUnitTest.py - timePassed - Visual Studio Code_2022-08-18 21:08:46.024738
+_File.py - timePassed - Visual Studio Code_2022-08-18 21:08:51.044237
+_infos.txt - timePassed - Visual Studio Code_2022-08-18 21:09:06.085197
+_File.py - timePassed - Visual Studio Code_2022-08-18 21:09:11.100822
+_Main.py - timePassed - Visual Studio Code_2022-08-18 21:09:16.119212
+_EventChangeWindow.py - timePassed - Visual Studio Code_2022-08-18 21:09:21.129276
+_BALANCE TON GREC (Parodie Angèle) - YouTube et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:09:33.451446
+_infos.txt - timePassed - Visual Studio Code_2022-08-18 21:09:48.495522
+_BALANCE TON GREC (Parodie Angèle) - YouTube et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:09:53.509412
+_STROMAE - MACRON OÙ T'ES ? ( Parodie gilets jaune ) - YouTube et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:11:23.690056
+_YouTube et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:12:33.839308
+_Saiyan Saga In A Nutshell - YouTube et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:12:53.888933
+_YouTube et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:13:08.922919
+_🥂général🥂 - Discord_2022-08-18 21:13:18.953437
+_YouTube et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:13:23.960652
+_Arnacoeurs, les escrocs de l'amour en ligne | Temps Présent - YouTube et 3 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:13:44.014038
+_Nouvel onglet et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:17:04.492768
+_YouTube et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:17:09.497984
+_J'interview le vice président de Google Search - YouTube et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:17:19.515863
+_YouTube et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:26:55.962856
+_infos.txt - timePassed - Visual Studio Code_2022-08-18 21:27:26.041814
+_YouTube et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:27:46.090741
+_Boy Terrified After School Bus Driver Left Him at Wrong Stop - YouTube et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:28:01.132376
+_YouTube et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:30:11.427170
+_I built a JavaScript framework - YouTube et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:30:16.437449
+_YouTube et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:31:16.561273
+_An Entire Computer Science Degree in 12 Minutes - YouTube et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:31:21.574807
+_YouTube et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:31:46.634102
+_What Professional Software Engineers ACTUALLY Do - YouTube et 4 pages de plus - Profil 1 – Microsoft​ Edge_2022-08-18 21:32:06.680535
+_général - Discord_2022-08-18 21:32:36.761425
 _
