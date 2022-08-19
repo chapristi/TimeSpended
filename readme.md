@@ -14,7 +14,7 @@ run in your terminal to start the app
 py Main.py
 ```
 run in your terminal to see how much time passed on different apps
-using tkinter
+i'm using tkinter
 ```python
 py Visualisation.py
 ```
