@@ -21,7 +21,6 @@ class EventChangeWindow:
      this function split elements to get array output
     """
     def SplitedElements(self: any) -> array:
-        
         ok = self.file.readFile()
         return ok.split("_")
     """
