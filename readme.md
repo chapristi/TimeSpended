@@ -9,9 +9,13 @@ pip install pygetwindow
 ```
 
 ## Usage
-run in your terminal
+run in your terminal to start the app 
 ```python
 py main.py
+```
+run in your terminal to see how much time passed on different apps
+```python
+py Visualisation.py
 ```
 
 ## License
